@@ -1,0 +1,42 @@
+<html>
+<body>
+<title>print message html</title>
+</head>
+<body bgcolor="purple">
+<body  text="white">
+<h1>HTML</h1>
+Welcome to HTML Programming<br>
+<pre>Welcome<br> to HTML Programming</pre>
+<hr>
+
+<h1>WELCOME TO HTML</h1>
+<h2>WELCOME TO HTML</h2>
+<h3>WELCOME TO HTML</h3>
+<h4>WELCOME TO HTML</h4>
+<h5>WELCOME TO HTML</h5>
+<h6>WELCOME TO HTML</h6>
+<b><br>WELCOME TO HTML BUT IN BOLD</b></br>
+<strong><br>WELCOME TO HTML BUT IN STRONG</strong></br>
+<i><br>WELCOME TO HTML BUT IN ITALICS</i></br>
+<address><BR>WELCOME TO HTML</address></BR>
+<u><BR>WELCOME TO HTML</u></BR>
+<del><BR>WELCOME TO HTML</del></BR>
+(x+y)<sup>3</sup><BR>
+H<sub>2</sub>O<BR>
+<SMALL>WELCOME TO</SMALL>HTML<BR>
+WELCOME TO<MARK>HTML</MARK><BR>
+<BR>WELCOME TO HTML<INS>PROGRAMMING</INS></BR>
+<blockquote>This is an example of BlockQuote</blockquote>
+<!--THIS IS A COMMENT LINE-->
+<APPLET CODE="NAME" width=200 height=300 align="center">ANANYA</APPLET><BR>
+<BDO DIR="RTL">WELCOME TO HTML</BDO><BR>
+<PROGRESS VALUE="63" MAX="100"></PROGRESS>
+<METER VALUE="5" MIN="0" MAX="10">5 OUT OF 10</METER><BR>
+<CODE>WELCOME TO HTML</CODE>
+<P>WELCOME TO<ABBR TITLE="HTML">HTML</ABBR>PROGRAMMING</P>
+
+
+
+
+</body>
+</html>
